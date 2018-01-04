@@ -132,6 +132,11 @@ module.exports = {
           short: 'yarn',
         },
         {
+          name: 'Yes, use CNPM',
+          value: 'cnpm',
+          short: 'cnpm',
+        },
+        {
           name: 'No, I will handle that myself',
           value: false,
           short: 'no',
